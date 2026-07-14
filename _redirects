@@ -1,0 +1,3 @@
+# Netlify / Cloudflare Pages redirects
+# Serve the homepage for the root path
+/ /index.html 200
